@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>mybatis-page-plugin_v1</name>
+=======
+	<name>mybatis-page-plugin</name>
+>>>>>>> FETCH_HEAD
 	<comment></comment>
 	<projects>
 	</projects>
